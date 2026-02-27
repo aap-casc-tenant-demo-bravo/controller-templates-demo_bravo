@@ -1,0 +1,17 @@
+{
+    "controller_templates": [
+        {
+            "ask_variables_on_launch": false,
+            "credentials": [
+                "crd-demo_bravo-mch-example"
+            ],
+            "description": "Example job template \u2014 replace with your automation use-case",
+            "inventory": "inv-demo_bravo-src-dev-example",
+            "name": "jt-demo_bravo-example",
+            "organization": "org-demo_bravo",
+            "playbook": "site.yml",
+            "project": "prj-demo_bravo-example",
+            "verbosity": 0
+        }
+    ]
+}
